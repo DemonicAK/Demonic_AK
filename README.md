@@ -14,7 +14,7 @@ https://www.profileme.dev/create-profile  use this website to make your profile 
 I love coding!!!
 
 - 🌍  I'm based in New Delhi , India
-- ✉️  You can contact me at [arijitkar13@gmail.com](mailto:arijitkar13@gmail.com)
+- ✉️  You can contact me at [demonicak07@gmail.com](mailto:demonicak07@gmail.com)
 - 🧠  I'm learning dsa
 - 🤝  I'm open to collaborating on data science projects
 
